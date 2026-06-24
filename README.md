@@ -1,0 +1,1 @@
+# Analisis-Spektral-Audio-Deepfake-menggunakan-STFT
